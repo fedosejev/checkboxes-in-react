@@ -17,7 +17,7 @@ let Application = React.createClass({
     }
   },
 
-  toggelCheckbox: function (label) {
+  toggleCheckbox: function (label) {
     if (this.selectedCheckboxes.has(label)) {
       this.selectedCheckboxes.delete(label);
     } else {
@@ -32,7 +32,7 @@ let Application = React.createClass({
   createCheckbox: function (label) {
     return <Checkbox 
               label={label} 
-              handleCheckboxChange={this.toggelCheckbox}
+              handleCheckboxChange={this.toggleCheckbox}
               key={label} />;
   },
 
