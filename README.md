@@ -1,6 +1,6 @@
 # Simple example of how to use checkboxes with React.js
 
-+ Tutorial: (coming soon)
++ Tutorial: http://react.tips/checkboxes-in-react/
 + See it in action: https://fedosejev.github.io/checkboxes-in-react/
 
 ## Install
