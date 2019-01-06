@@ -1,7 +1,11 @@
+**THIS REPOSITORY IS DEPRECATED.** Please go to: https://github.com/fedosejev/checkboxes-in-react-16
+
+---
+
 # Simple example of how to use checkboxes with React.js
 
-+ Tutorial: http://react.tips/checkboxes-in-react/
-+ See it in action: https://fedosejev.github.io/checkboxes-in-react/
+- Tutorial: http://react.tips/checkboxes-in-react/
+- See it in action: https://fedosejev.github.io/checkboxes-in-react/
 
 ## Install
 
@@ -9,8 +13,9 @@
 2. `yarn install`
 
 #### What is Yarn?
-+ https://code.facebook.com/posts/1840075619545360
-+ https://scotch.io/tutorials/yarn-package-manager-an-improvement-over-npm
+
+- https://code.facebook.com/posts/1840075619545360
+- https://scotch.io/tutorials/yarn-package-manager-an-improvement-over-npm
 
 ## Run
 
@@ -24,9 +29,10 @@
 ## Author
 
 Artemij Fedosejev
-+ [Website](http://artemij.com)
-+ [LinkedIn](https://www.linkedin.com/in/artemij)
-+ [React.Tips](http://react.tips)
+
+- [Website](http://artemij.com)
+- [LinkedIn](https://www.linkedin.com/in/artemij)
+- [React.Tips](http://react.tips)
 
 ## License
 
